@@ -1,4 +1,4 @@
-# CS50---Week0
+# CS50-Week0
 
 ## Hungry Bear - Game
 
